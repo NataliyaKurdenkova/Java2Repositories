@@ -1,5 +1,4 @@
 package Lesson1.Interface.barrier;
-
 import Lesson1.Interface.Barrier;
 import Lesson1.Interface.Player;
 
